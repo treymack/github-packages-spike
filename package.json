@@ -1,0 +1,19 @@
+{
+  "name": "@treymack/github-packages-spike",
+  "version": "1.0.0",
+  "description": "https://docs.github.com/en/packages/quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treymack/github-packages-spike.git"
+  },
+  "author": "Trey Mack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treymack/github-packages-spike/issues"
+  },
+  "homepage": "https://github.com/treymack/github-packages-spike#readme"
+}
